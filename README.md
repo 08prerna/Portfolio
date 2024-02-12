@@ -2,7 +2,7 @@
 
 This is a simple portfolio project created using HTML and CSS. It showcases my skills, projects, and experiences.
 
-<h1><a href="https://08prerna.github.io/Portfolio/">Live Here</a></h1>
+<h1 style="border:1px;"><a href="https://08prerna.github.io/Portfolio/">Live Here</a></h1>
 
 # Features
 * Responsive design
